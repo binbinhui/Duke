@@ -13,16 +13,7 @@ public class Duke {
 
         //Good Bye msg
         System.out.println("Bye. Hope to see you again soon!");
+//fafa
 
-// last try lalallaa
-        //testing again gagaga
-        
-     // how are you   
-        
-        //add more
-        //hahahaha
-        //hahah
-        //lalala
-        // hahaha
-    }
+
 }
